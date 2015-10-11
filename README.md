@@ -3,7 +3,7 @@ by Abul Asad
 
 # Notice
 - You may fork this repository for your own version of translation.
-- This repository may remove when project is marked as done. In this case, you may find the published ebook on the website.
+- This repository may be removed when project is marked as done. In this case, you may find the published ebook on the website.
 - You may email your modified forked version of the repository, if you think that your translation is more relavent.
 
 # License
